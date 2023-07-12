@@ -1,0 +1,26 @@
+{
+  "name": "tableau-hoc-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "node src/index.js"
+  },
+  "dependencies": {
+    "axios": "^1.4.0",
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "express-fileupload": "^1.4.0",
+    "form-data": "^4.0.0",
+    "http": "^0.0.1-security",
+    "jws": "^4.0.0",
+    "nodemon": "^3.0.1",
+    "path": "^0.12.7",
+    "request": "^2.88.2",
+    "request-promise-native": "^1.0.9",
+    "unirest": "^0.6.0",
+    "uuid": "^9.0.0",
+    "xml2js": "^0.6.0"
+  }
+}
